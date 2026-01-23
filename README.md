@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">Hi 👋! My name is Long Le and I'm a Vietnamese Software Engineer, currently in Finland</h1>
+<h1 align="center">Hi 👋! My name is Long Le and I'm a Vietnamese Software Engineer</h1>
 
 ###
 
